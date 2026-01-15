@@ -1,14 +1,14 @@
-# 👨‍🌾 Salah Eddine HAMMOUYAT  
+# Salah Eddine HAMMOUYAT  
 **Agronomist Engineer | Precision Agriculture | Agri-Tech Sales & Support**
 
 ---
 
-## 📌 Profile  
+## Profile  
 I am a junior agronomist engineer passionate about leveraging my expertise in crop science and modern agricultural technologies to drive sustainable growth and innovation in the agricultural sector.
 
 ---
 
-## 🎓 Education  
+## Education  
 - **State Engineer in Agronomy** – *National School of Agriculture of Meknes* (Sept 2017–Sept 2022)  
   Major: Crop Production Science and Techniques  
 - **Erasmus Exchange – Final Year Project** – *University of Szeged, Hungary* (Apr 2022–Sept 2022)  
@@ -18,7 +18,7 @@ I am a junior agronomist engineer passionate about leveraging my expertise in cr
 
 ---
 
-## 💼 Work Experience  
+## Work Experience  
 
 ### Technical Sales Representative – *SONACOS* (Since Feb 2024, Sidi Kacem)  
 - Managed seed and agricultural input programs across assigned territories  
@@ -34,7 +34,7 @@ I am a junior agronomist engineer passionate about leveraging my expertise in cr
 
 ---
 
-## 🛠 Skills  
+## Skills  
 - **Production & Logistics Management** (SAP ERP)  
 - **Precision Agriculture** (Satellite Imagery, Google Earth Engine)  
 - **Sales Strategy & Market Development**  
@@ -46,7 +46,7 @@ I am a junior agronomist engineer passionate about leveraging my expertise in cr
 
 ---
 
-## 💻 Computer Skills  
+## Computer Skills  
 - **ERP Systems:** SAP (Key Modules), Odoo (Basic)  
 - **Data Analysis:** Excel, SPSS  
 - **Programming:** HTML, CSS, PHP, JavaScript  
@@ -54,14 +54,14 @@ I am a junior agronomist engineer passionate about leveraging my expertise in cr
 
 ---
 
-## 🌐 Languages  
+## Languages  
 - Arabic (Native)  
 - French (Fluent)  
 - English (Fluent)  
 
 ---
 
-## ✨ Key Assets  
+## Key Assets  
 - Blends hands-on agronomic experience with digital expertise  
 - Communicates complex innovations in an accessible way  
 - Results-oriented with strong goal achievement drive  
@@ -70,15 +70,15 @@ I am a junior agronomist engineer passionate about leveraging my expertise in cr
 
 ---
 
-## 📬 Contact & Links  
-- **Email:** *(Not provided in CV)*  
+## Contact & Links  
+- **Email:** *rbouabid@enameknes.ac.ma*  
 - **LinkedIn:** [@salah-eddine-hammouyat](https://linkedin.com/in/salah-eddine-hammouyat)  
-- **Phone:** 06-36-67-44-17  
-- **Reference:** Prof. Rachid Bouabid (PhD, PES, ENA Meknes) – 06-61-44-02-99  
+- **Phone:** 06-61-44-02-99   
+- **Reference:** Prof. Rachid Bouabid (PhD, PES, ENA Meknes)
 
 ---
 
-## 🌱 Interests  
+## Interests  
 - Tracking advancements in precision agriculture (drones, IoT, AI)  
 - Attending agricultural exhibitions and trade shows  
 - Hiking and observing natural agricultural ecosystems  
